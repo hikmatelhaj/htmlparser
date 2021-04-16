@@ -1,6 +1,6 @@
 # htmlparser
 
-Source is private as it was a paid project
+Source is private because it was a paid project
 
 ![image-20210416182754091](https://i.imgur.com/veSgMKf.png)
 
